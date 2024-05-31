@@ -1,7 +1,7 @@
 print("Hello World");
 
 def printMyName():
-	print("This is Moutasim - 1080415");
+	print("This is Moutasim");
 
 printMyName()
 
