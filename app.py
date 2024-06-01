@@ -1,8 +1,1 @@
-print("Hello World");
-
-def printMyName():
-	print("This is Moutasim");
-
-printMyName()
-
-
+print("hello word")
